@@ -9,14 +9,14 @@ Stay informed with top news outlets from around the world. This collection provi
 
 | Icon | Name           | Code   | URL |
 |------|----------------|--------|-----|
-| ![News](icon/news.png) | **News & Media** |        |     |
-| ![Google News](icon/googlenews.png) | Google News | gn | https://news.google.com/search?q={} |
-| ![BBC News](icon/bbc.png) | BBC News | bbc | https://www.bbc.co.uk/search?q={} |
-| ![CNN](icon/cnn.png) | CNN | cnn | https://edition.cnn.com/search?q={} |
-| ![Reuters](icon/reuters.png) | Reuters | reuters | https://www.reuters.com/search/news?blob={} |
-| ![The Guardian](icon/guardian.png) | The Guardian | guardian | https://www.theguardian.com/uk/{} |
-| ![New York Times](icon/nyt.png) | New York Times | nyt | https://www.nytimes.com/search?query={} |
-| ![Al Jazeera](icon/aljazeera.png) | Al Jazeera | aj | https://www.aljazeera.com/search/{} |
+| <img src="icon/news.png" width="32"/> | **News & Media** |        |     |
+| <img src="icon/googlenews.png" width="32"/> | Google News | gn | https://news.google.com/search?q={} |
+| <img src="icon/bbc.png" width="32"/> | BBC News | bbc | https://www.bbc.co.uk/search?q={} |
+| <img src="icon/cnn.png" width="32"/> | CNN | cnn | https://edition.cnn.com/search?q={} |
+| <img src="icon/reuters.png" width="32"/> | Reuters | reuters | https://www.reuters.com/search/news?blob={} |
+| <img src="icon/guardian.png" width="32"/> | The Guardian | guardian | https://www.theguardian.com/uk/{} |
+| <img src="icon/nyt.png" width="32"/> | New York Times | nyt | https://www.nytimes.com/search?query={} |
+| <img src="icon/aljazeera.png" width="32"/> | Al Jazeera | aj | https://www.aljazeera.com/search/{} |
 
 ## How to Use
 - Browse the table above or use `news.json` for programmatic access.

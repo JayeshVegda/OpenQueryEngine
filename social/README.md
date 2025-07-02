@@ -9,13 +9,13 @@ Social media connects people and communities. This collection provides quick acc
 
 | Icon | Name           | Code   | URL |
 |------|----------------|--------|-----|
-| ![Social](icon/social.png) | **Social** |        |     |
-| ![X](icon/x.png) | X | x | https://x.com/search?q={}&f=user |
-| ![Facebook](icon/facebook.png) | Facebook | fb | https://www.facebook.com/search/top/?q={} |
-| ![Instagram](icon/instagram.png) | Instagram | ig | https://www.instagram.com/explore/tags/{}/ |
-| ![Reddit](icon/reddit.png) | Reddit | reddit | https://www.reddit.com/search/?q={} |
-| ![LinkedIn](icon/linkedin.png) | LinkedIn | li | https://www.linkedin.com/search/results/all/?keywords={} |
-| ![Pinterest](icon/pinterest.png) | Pinterest | pin | https://www.pinterest.com/search/pins/?q={} |
+| <img src="icon/social.png" width="32"/> | **Social** |        |     |
+| <img src="icon/x.png" width="32"/> | X | x | https://x.com/search?q={}&f=user |
+| <img src="icon/facebook.png" width="32"/> | Facebook | fb | https://www.facebook.com/search/top/?q={} |
+| <img src="icon/instagram.png" width="32"/> | Instagram | ig | https://www.instagram.com/explore/tags/{}/ |
+| <img src="icon/reddit.png" width="32"/> | Reddit | reddit | https://www.reddit.com/search/?q={} |
+| <img src="icon/linkedin.png" width="32"/> | LinkedIn | li | https://www.linkedin.com/search/results/all/?keywords={} |
+| <img src="icon/pinterest.png" width="32"/> | Pinterest | pin | https://www.pinterest.com/search/pins/?q={} |
 
 ## How to Use
 - Browse the table above or use `social.json` for programmatic access.

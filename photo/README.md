@@ -9,15 +9,15 @@ Photo resources are essential for designers, marketers, and content creators. Th
 
 | Icon | Name           | Code   | URL |
 |------|----------------|--------|-----|
-| ![Photo](icon/photo.png) | **Photo** |        |     |
-| ![Pinterest](icon/pinterest.png) | Pinterest | pin | https://www.pinterest.com/search/pins/?q={} |
-| ![Unsplash](icon/unsplash.png) | Unsplash | unsplash | https://unsplash.com/s/photos/{} |
-| ![Pexels](icon/pexels.png) | Pexels | pexels | https://www.pexels.com/search/{}/ |
-| ![Pixabay](icon/pixabay.png) | Pixabay | pixabay | https://pixabay.com/images/search/{} |
-| ![Getty Images](icon/gettyimages.png) | Getty Images | getty | https://www.gettyimages.com/photos/{} |
-| ![Shutterstock](icon/shutterstock.png) | Shutterstock | ss | https://www.shutterstock.com/search/{} |
-| ![Flickr](icon/flickr.png) | Flickr | flickr | https://www.flickr.com/search/?text={} |
-| ![Adobe Stock](icon/stock_adobe.png) | Adobe Stock | adobe | https://stock.adobe.com/search?k={} |
+| <img src="icon/photo.png" width="32"/> | **Photo** |        |     |
+| <img src="icon/pinterest.png" width="32"/> | Pinterest | pin | https://www.pinterest.com/search/pins/?q={} |
+| <img src="icon/unsplash.png" width="32"/> | Unsplash | unsplash | https://unsplash.com/s/photos/{} |
+| <img src="icon/pexels.png" width="32"/> | Pexels | pexels | https://www.pexels.com/search/{}/ |
+| <img src="icon/pixabay.png" width="32"/> | Pixabay | pixabay | https://pixabay.com/images/search/{} |
+| <img src="icon/gettyimages.png" width="32"/> | Getty Images | getty | https://www.gettyimages.com/photos/{} |
+| <img src="icon/shutterstock.png" width="32"/> | Shutterstock | ss | https://www.shutterstock.com/search/{} |
+| <img src="icon/flickr.png" width="32"/> | Flickr | flickr | https://www.flickr.com/search/?text={} |
+| <img src="icon/stock_adobe.png" width="32"/> | Adobe Stock | adobe | https://stock.adobe.com/search?k={} |
 
 ## How to Use
 - Browse the table above or use `photo.json` for programmatic access.

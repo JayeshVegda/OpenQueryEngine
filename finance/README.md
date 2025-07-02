@@ -9,12 +9,12 @@ Finance tools help you track stocks, analyze markets, and manage investments. Th
 
 | Icon | Name           | Code   | URL |
 |------|----------------|--------|-----|
-| ![Finance](icon/finance.png) | **Finance** |        |     |
-| ![Yahoo Finance](icon/yahoo.png) | Yahoo Finance | yf | https://finance.yahoo.com/quote/{} |
-| ![Google Finance](icon/googlefinance.png) | Google Finance | gf | https://www.google.com/finance/quote/{} |
-| ![TradingView](icon/tradingview.png) | TradingView | tv | https://www.tradingview.com/chart/?symbol={} |
-| ![Moneycontrol](icon/moneycontrol.png) | Moneycontrol | mc | https://www.moneycontrol.com/india/stockpricequote/{} |
-| ![NSE India](icon/nse.png) | NSE India | nse | https://www.nseindia.com/get-quotes/equity?symbol={} |
+| <img src="icon/finance.png" width="32"/> | **Finance** |        |     |
+| <img src="icon/yahoo.png" width="32"/> | Yahoo Finance | yf | https://finance.yahoo.com/quote/{} |
+| <img src="icon/googlefinance.png" width="32"/> | Google Finance | gf | https://www.google.com/finance/quote/{} |
+| <img src="icon/tradingview.png" width="32"/> | TradingView | tv | https://www.tradingview.com/chart/?symbol={} |
+| <img src="icon/moneycontrol.png" width="32"/> | Moneycontrol | mc | https://www.moneycontrol.com/india/stockpricequote/{} |
+| <img src="icon/nse.png" width="32"/> | NSE India | nse | https://www.nseindia.com/get-quotes/equity?symbol={} |
 
 ## How to Use
 - Browse the table above or use `finance.json` for programmatic access.

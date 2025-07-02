@@ -9,13 +9,13 @@ AI tools are transforming productivity, creativity, and research. This collectio
 
 | Icon | Name        | Code     | URL |
 |------|-------------|----------|-----|
-| ![AI](icon/ai.png) | **AI**   |      |     |
-| ![ChatGPT](icon/chatgpt.png) | ChatGPT | chatgpt | https://chat.openai.com/?q={} |
-| ![Perplexity](icon/perplexity.png) | Perplexity | ppx | https://www.perplexity.ai/search?q={} |
-| ![Claude](icon/claude.png) | Claude | claude | https://claude.ai/new?q={} |
-| ![Copilot](icon/copilot.png) | Copilot | copilot | https://copilot.microsoft.com/?q={} |
-| ![HuggingChat](icon/huggingface.png) | HuggingChat | hf | https://huggingface.co/chat?q={} |
-| ![Mistral](icon/mistral.png) | Mistral | mistral | https://chat.mistral.ai/chat?q={} |
+| <img src="icon/ai.png" width="32"/> | **AI**   |      |     |
+| <img src="icon/chatgpt.png" width="32"/> | ChatGPT | chatgpt | https://chat.openai.com/?q={} |
+| <img src="icon/perplexity.png" width="32"/> | Perplexity | ppx | https://www.perplexity.ai/search?q={} |
+| <img src="icon/claude.png" width="32"/> | Claude | claude | https://claude.ai/new?q={} |
+| <img src="icon/copilot.png" width="32"/> | Copilot | copilot | https://copilot.microsoft.com/?q={} |
+| <img src="icon/huggingface.png" width="32"/> | HuggingChat | hf | https://huggingface.co/chat?q={} |
+| <img src="icon/mistral.png" width="32"/> | Mistral | mistral | https://chat.mistral.ai/chat?q={} |
 
 ## How to Use
 - Browse the table above or use `ai.json` for programmatic access.

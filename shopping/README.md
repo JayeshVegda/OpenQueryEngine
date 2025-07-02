@@ -9,14 +9,14 @@ Online shopping is a key part of modern life. This collection provides quick acc
 
 | Icon | Name           | Code   | URL |
 |------|----------------|--------|-----|
-| ![Shopping](icon/shop.png) | **Shopping** |        |     |
-| ![Amazon](icon/amazon.png) | Amazon | amz | https://www.amazon.com/s?k={} |
-| ![eBay](icon/ebay.png) | eBay | ebay | https://www.ebay.com/sch/i.html?_nkw={} |
-| ![Walmart](icon/walmart.png) | Walmart | walmart | https://www.walmart.com/search?q={} |
-| ![AliExpress](icon/aliexpress.png) | AliExpress | alx | https://www.aliexpress.com/wholesale?SearchText={} |
-| ![Best Buy](icon/bestbuy.png) | Best Buy | bb | https://www.bestbuy.com/site/searchpage.jsp?st={} |
-| ![Target](icon/target.png) | Target | target | https://www.target.com/s?searchTerm={} |
-| ![Etsy](icon/etsy.png) | Etsy | etsy | https://www.etsy.com/search?q={} |
+| <img src="icon/shop.png" width="32"/> | **Shopping** |        |     |
+| <img src="icon/amazon.png" width="32"/> | Amazon | amz | https://www.amazon.com/s?k={} |
+| <img src="icon/ebay.png" width="32"/> | eBay | ebay | https://www.ebay.com/sch/i.html?_nkw={} |
+| <img src="icon/walmart.png" width="32"/> | Walmart | walmart | https://www.walmart.com/search?q={} |
+| <img src="icon/aliexpress.png" width="32"/> | AliExpress | alx | https://www.aliexpress.com/wholesale?SearchText={} |
+| <img src="icon/bestbuy.png" width="32"/> | Best Buy | bb | https://www.bestbuy.com/site/searchpage.jsp?st={} |
+| <img src="icon/target.png" width="32"/> | Target | target | https://www.target.com/s?searchTerm={} |
+| <img src="icon/etsy.png" width="32"/> | Etsy | etsy | https://www.etsy.com/search?q={} |
 
 ## How to Use
 - Browse the table above or use `shopping.json` for programmatic access.

@@ -12,14 +12,14 @@ OpenQueryEngine is a centralized, open-source collection of curated web resource
 
 | Icon | Category | Description | Folder |
 |------|----------|-------------|--------|
-| ![AI](ai/icon/ai.png) | **AI** | AI chatbots and LLMs | [ai](./ai) |
-| ![Finance](finance/icon/finance.png) | **Finance** | Stock & finance data | [finance](./finance) |
-| ![News](news/icon/news.png) | **News & Media** | News and media sources | [news](./news) |
-| ![Photo](photo/icon/photo.png) | **Photo** | Stock and creative photo sites | [photo](./photo) |
-| ![Search](search/icon/search.png) | **Search** | Search engines | [search](./search) |
-| ![Shopping](shopping/icon/shop.png) | **Shopping** | Online shopping platforms | [shopping](./shopping) |
-| ![Social](social/icon/social.png) | **Social** | Social media platforms | [social](./social) |
-| ![Video](video/icon/video.png) | **Video** | Video sharing platforms | [video](./video) |
+| <img src="ai/icon/ai.png" width="32"/> | **AI** | AI chatbots and LLMs | [ai](./ai) |
+| <img src="finance/icon/finance.png" width="32"/> | **Finance** | Stock & finance data | [finance](./finance) |
+| <img src="news/icon/news.png" width="32"/> | **News & Media** | News and media sources | [news](./news) |
+| <img src="photo/icon/photo.png" width="32"/> | **Photo** | Stock and creative photo sites | [photo](./photo) |
+| <img src="search/icon/search.png" width="32"/> | **Search** | Search engines | [search](./search) |
+| <img src="shopping/icon/shop.png" width="32"/> | **Shopping** | Online shopping platforms | [shopping](./shopping) |
+| <img src="social/icon/social.png" width="32"/> | **Social** | Social media platforms | [social](./social) |
+| <img src="video/icon/video.png" width="32"/> | **Video** | Video sharing platforms | [video](./video) |
 
 ## Example Use Cases
 - **Browser Extensions**: Quickly search or open any supported platform from your browser.

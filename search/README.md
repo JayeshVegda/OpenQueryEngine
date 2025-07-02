@@ -9,14 +9,14 @@ Search engines are the gateway to the web. This collection provides quick access
 
 | Icon | Name           | Code   | URL |
 |------|----------------|--------|-----|
-| ![Search](icon/search.png) | **Search** |        |     |
-| ![Google](icon/google.png) | Google | g | https://www.google.com/search?q={} |
-| ![Bing](icon/bing.png) | Bing | bing | https://www.bing.com/search?q={} |
-| ![DuckDuckGo](icon/duckduckgo.png) | DuckDuckGo | ddg | https://duckduckgo.com/?q={} |
-| ![Startpage](icon/startpage.png) | Startpage | sp | https://www.startpage.com/sp/search?query={} |
-| ![Ecosia](icon/ecosia.png) | Ecosia | eco | https://www.ecosia.org/search?q={} |
-| ![Yandex](icon/yandex.png) | Yandex | yandex | https://yandex.com/search/?text={} |
-| ![Brave Search](icon/brave.png) | Brave Search | brave | https://search.brave.com/search?q={} |
+| <img src="icon/search.png" width="32"/> | **Search** |        |     |
+| <img src="icon/google.png" width="32"/> | Google | g | https://www.google.com/search?q={} |
+| <img src="icon/bing.png" width="32"/> | Bing | bing | https://www.bing.com/search?q={} |
+| <img src="icon/duckduckgo.png" width="32"/> | DuckDuckGo | ddg | https://duckduckgo.com/?q={} |
+| <img src="icon/startpage.png" width="32"/> | Startpage | sp | https://www.startpage.com/sp/search?query={} |
+| <img src="icon/ecosia.png" width="32"/> | Ecosia | eco | https://www.ecosia.org/search?q={} |
+| <img src="icon/yandex.png" width="32"/> | Yandex | yandex | https://yandex.com/search/?text={} |
+| <img src="icon/brave.png" width="32"/> | Brave Search | brave | https://search.brave.com/search?q={} |
 
 ## How to Use
 - Browse the table above or use `search.json` for programmatic access.

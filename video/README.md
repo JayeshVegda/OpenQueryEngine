@@ -9,10 +9,10 @@ Video platforms are essential for entertainment, education, and marketing. This 
 
 | Icon | Name           | Code   | URL |
 |------|----------------|--------|-----|
-| ![Video](icon/video.png) | **Video** |        |     |
-| ![YouTube](icon/youtube.png) | YouTube | yt | https://www.youtube.com/results?search_query={} |
-| ![Vimeo](icon/vimeo.png) | Vimeo | vimeo | https://vimeo.com/search?q={} |
-| ![Dailymotion](icon/dailymotion.png) | Dailymotion | dm | https://www.dailymotion.com/search/{} |
+| <img src="icon/video.png" width="32"/> | **Video** |        |     |
+| <img src="icon/youtube.png" width="32"/> | YouTube | yt | https://www.youtube.com/results?search_query={} |
+| <img src="icon/vimeo.png" width="32"/> | Vimeo | vimeo | https://vimeo.com/search?q={} |
+| <img src="icon/dailymotion.png" width="32"/> | Dailymotion | dm | https://www.dailymotion.com/search/{} |
 
 ## How to Use
 - Browse the table above or use `video.json` for programmatic access.
