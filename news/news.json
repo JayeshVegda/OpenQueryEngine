@@ -1,0 +1,15 @@
+{
+    "news": {
+        "name": "News & Media",
+        "icon": "Images/news/news.png",
+        "websites": [
+            {"name": "Google News", "code": "gn", "url": "https://news.google.com/search?q={}", "icon": "Images/news/googlenews.png"},
+            {"name": "BBC News", "code": "bbc", "url": "https://www.bbc.co.uk/search?q={}", "icon": "Images/news/bbc.png"},
+            {"name": "CNN", "code": "cnn", "url": "https://edition.cnn.com/search?q={}", "icon": "Images/news/cnn.png"},
+            {"name": "Reuters", "code": "reuters", "url": "https://www.reuters.com/search/news?blob={}", "icon": "Images/news/reuters.png"},
+            {"name": "The Guardian", "code": "guardian", "url": "https://www.theguardian.com/uk/{}", "icon": "Images/news/guardian.png"},
+            {"name": "New York Times", "code": "nyt", "url": "https://www.nytimes.com/search?query={}", "icon": "Images/news/nyt.png"},
+            {"name": "Al Jazeera", "code": "aj", "url": "https://www.aljazeera.com/search/{}", "icon": "Images/news/aljazeera.png"}
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "ai": {
+        "name": "AI",
+        "icon": "Images/ai/ai.png",
+        "websites": [
+          {"name": "ChatGPT", "code": "chatgpt", "url": "https://chat.openai.com/?q={}", "icon": "Images/ai/chatgpt.png"},
+          {"name": "Perplexity", "code": "ppx", "url": "https://www.perplexity.ai/search?q={}", "icon": "Images/ai/perplexity.png"},
+          {"name": "Claude", "code": "claude", "url": "https://claude.ai/new?q={}", "icon": "Images/ai/claude.png"},
+          {"name": "Copilot", "code": "copilot", "url": "https://copilot.microsoft.com/?q={}", "icon": "Images/ai/copilot.png"},
+          {"name": "HuggingChat", "code": "hf", "url": "https://huggingface.co/chat?q={}", "icon": "Images/ai/huggingface.png"},
+          {"name": "Mistral", "code": "mistral", "url": "https://chat.mistral.ai/chat?q={}", "icon": "Images/ai/mistral.png"}
+        ]
+      }
+}

@@ -1,0 +1,14 @@
+{
+    "social": {
+        "name": "Social",
+        "icon": "Images/social/social.png",
+        "websites": [
+            {"name": "X", "code": "x", "url": "https://x.com/search?q={}&f=user", "icon": "Images/social/x.png"},
+            {"name": "Facebook", "code": "fb", "url": "https://www.facebook.com/search/top/?q={}", "icon": "Images/social/facebook.png"},
+            {"name": "Instagram", "code": "ig", "url": "https://www.instagram.com/explore/tags/{}/", "icon": "Images/social/instagram.png"},
+            {"name": "Reddit", "code": "reddit", "url": "https://www.reddit.com/search/?q={}", "icon": "Images/social/reddit.png"},
+            {"name": "LinkedIn", "code": "li", "url": "https://www.linkedin.com/search/results/all/?keywords={}", "icon": "Images/social/linkedin.png"},
+            {"name": "Pinterest", "code": "pin", "url": "https://www.pinterest.com/search/pins/?q={}", "icon": "Images/social/pinterest.png"}
+        ]
+    }
+}

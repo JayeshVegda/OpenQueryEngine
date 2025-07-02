@@ -1,0 +1,11 @@
+{  
+    "video": {
+    "name": "Video",
+    "icon": "Images/video/video.png",
+    "websites": [
+      {"name": "YouTube", "code": "yt", "url": "https://www.youtube.com/results?search_query={}", "icon": "Images/video/youtube.png"},
+      {"name": "Vimeo", "code": "vimeo", "url": "https://vimeo.com/search?q={}", "icon": "Images/video/vimeo.png"},
+      {"name": "Dailymotion", "code": "dm", "url": "https://www.dailymotion.com/search/{}", "icon": "Images/video/dailymotion.png"}
+    ]
+  }
+}

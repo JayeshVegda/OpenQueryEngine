@@ -1,0 +1,16 @@
+{
+    "photo": {
+        "name": "Photo",
+        "icon": "Images/photo/photo.png",
+        "websites": [
+            {"name": "Pinterest", "code": "pin", "url": "https://www.pinterest.com/search/pins/?q={}", "icon": "Images/photo/pinterest.png"},
+            {"name": "Unsplash", "code": "unsplash", "url": "https://unsplash.com/s/photos/{}", "icon": "Images/photo/unsplash.png"},
+            {"name": "Pexels", "code": "pexels", "url": "https://www.pexels.com/search/{}/", "icon": "Images/photo/pexels.png"},
+            {"name": "Pixabay", "code": "pixabay", "url": "https://pixabay.com/images/search/{}", "icon": "Images/photo/pixabay.png"},
+            {"name": "Getty Images", "code": "getty", "url": "https://www.gettyimages.com/photos/{}", "icon": "Images/photo/getty.png"},
+            {"name": "Shutterstock", "code": "ss", "url": "https://www.shutterstock.com/search/{}", "icon": "Images/photo/shutterstock.png"},
+            {"name": "Flickr", "code": "flickr", "url": "https://www.flickr.com/search/?text={}", "icon": "Images/photo/flickr.png"},
+            {"name": "Adobe Stock", "code": "adobe", "url": "https://stock.adobe.com/search?k={}", "icon": "Images/photo/adobe.png"}
+        ]
+    }
+}

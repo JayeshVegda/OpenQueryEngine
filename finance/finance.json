@@ -1,0 +1,13 @@
+{
+    "finance": {
+        "name": "Finance",
+        "icon": "Images/finance/finance.png",
+        "websites": [
+            {"name": "Yahoo Finance", "code": "yf", "url": "https://finance.yahoo.com/quote/{}", "icon": "Images/finance/yahoo.png"},
+            {"name": "Google Finance", "code": "gf", "url": "https://www.google.com/finance/quote/{}", "icon": "Images/finance/googlefinance.png"},
+            {"name": "TradingView", "code": "tv", "url": "https://www.tradingview.com/chart/?symbol={}", "icon": "Images/finance/tradingview.png"},
+            {"name": "Moneycontrol", "code": "mc", "url": "https://www.moneycontrol.com/india/stockpricequote/{}", "icon": "Images/finance/moneycontrol.png"},
+            {"name": "NSE India", "code": "nse", "url": "https://www.nseindia.com/get-quotes/equity?symbol={}", "icon": "Images/finance/nse.png"}
+        ]
+    }
+}

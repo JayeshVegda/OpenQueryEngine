@@ -1,0 +1,15 @@
+{
+    "search": {
+        "name": "Search",
+        "icon": "Images/search/search.png",
+        "websites": [
+          {"name": "Google", "code": "g", "url": "https://www.google.com/search?q={}", "icon": "Images/search/google.png"},
+          {"name": "Bing", "code": "bing", "url": "https://www.bing.com/search?q={}", "icon": "Images/search/bing.png"},
+          {"name": "DuckDuckGo", "code": "ddg", "url": "https://duckduckgo.com/?q={}", "icon": "Images/search/duckduckgo.png"},
+          {"name": "Startpage", "code": "sp", "url": "https://www.startpage.com/sp/search?query={}", "icon": "Images/search/startpage.png"},
+          {"name": "Ecosia", "code": "eco", "url": "https://www.ecosia.org/search?q={}", "icon": "Images/search/ecosia.png"},
+          {"name": "Yandex", "code": "yandex", "url": "https://yandex.com/search/?text={}", "icon": "Images/search/yandex.png"},
+          {"name": "Brave Search", "code": "brave", "url": "https://search.brave.com/search?q={}", "icon": "Images/search/brave.png"}
+        ]
+      }
+}

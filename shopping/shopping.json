@@ -1,0 +1,15 @@
+{
+    "shopping": {
+        "name": "Shopping",
+        "icon": "Images/shopping/shop.png",
+        "websites": [
+            {"name": "Amazon", "code": "amz", "url": "https://www.amazon.com/s?k={}", "icon": "Images/shopping/amazon.png"},
+            {"name": "eBay", "code": "ebay", "url": "https://www.ebay.com/sch/i.html?_nkw={}", "icon": "Images/shopping/ebay.png"},
+            {"name": "Walmart", "code": "walmart", "url": "https://www.walmart.com/search?q={}", "icon": "Images/shopping/walmart.png"},
+            {"name": "AliExpress", "code": "alx", "url": "https://www.aliexpress.com/wholesale?SearchText={}", "icon": "Images/shopping/aliexpress.png"},
+            {"name": "Best Buy", "code": "bb", "url": "https://www.bestbuy.com/site/searchpage.jsp?st={}", "icon": "Images/shopping/bestbuy.png"},
+            {"name": "Target", "code": "target", "url": "https://www.target.com/s?searchTerm={}", "icon": "Images/shopping/target.png"},
+            {"name": "Etsy", "code": "etsy", "url": "https://www.etsy.com/search?q={}", "icon": "Images/shopping/etsy.png"}
+        ]
+    }
+}
